@@ -215,14 +215,14 @@ header .header-content .content p {
 
 .about .about-buttons {
     display: block;
-    transform: translateY(30px);
+    transform: translateY(10px);
 }
 
 .about .about-buttons a {
     text-decoration: none;
     color: #111;
     border: 1px solid;
-    border-radius: 30px;
+    border-radius: 100px;
     padding: .7rem 2rem;
     margin: 0 .5rem;
     margin-top: 20px;
@@ -514,7 +514,7 @@ header .header-content .content p {
 
 .contact .container .form-group {
     position: relative;
-    width: 100%;
+    width: 50%;
     height: 50px;
     background: transparent;
 }
